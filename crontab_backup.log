@@ -1,0 +1,25 @@
+---------------------------------------------------------------------------------
+Backing up all data except for raw read files.  Use rawbackup to sync those to NYC
+227014M	/proj/parvi/data/spectra
+784254M	/proj/parvi/data/slope
+2372M	/proj/parvi/data/photos
+282275M	/proj/parvi/data/cred2
+12392M	/proj/parvi/data/lfc_spots
+7160M	/proj/parvi/data/log
+1315465M	total
+Gigabytes locally
+---------------------------------------------------------------------------------
+210775M	/export/parvi/data/data/spectra
+784254M	/export/parvi/data/data/slope
+2372M	/export/parvi/data/data/photos
+282275M	/export/parvi/data/data/cred2
+12394M	/export/parvi/data/data/lfc_spots
+7160M	/export/parvi/data/data/log
+1299228M	total
+Gigabytes in NYC
+---------------------------------------------------------------------------------
+Files, scripts and shit are being updated on the pile of disks and shit in NYC.
+---------------------------------------------------------------------------------
+This may take some time.  Type datasize to compare the sizes in Palomar and NYC.
+You can also check on progress by looking at the log files in ~/NYCBackups
+---------------------------------------------------------------------------------
